@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there everyone 👋
+
+I am Nilesh Gupta, BscIT graduate looking for job to work on
+
+ 🔭 I’m currently working on .NET projects 
+- 🌱 I’m currently learning .NET framework
+- 👯 I’m looking to collaborate on projects
+- 🤔 I’m looking for help with job 
 
 <!--
 **NileshGupta664/NileshGupta664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
